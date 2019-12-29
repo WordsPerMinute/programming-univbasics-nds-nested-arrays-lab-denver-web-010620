@@ -31,14 +31,14 @@ def sorted_matrix
       "Oranges",
       "Watermelon",
       "Eggplant"
-    ],
+    ].sort,
     [
       "Strawberries",
       "Potatoes",
       "Grapes",
       "Avocadoes",
       "Asparagus"
-    ]
+    ].sort
   ]
   # Using Array literal syntax only, build another nested array that
   # uses the arrays of conventional and organic produce as before.
